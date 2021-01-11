@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hanriver-temp-publish/static/css/main.043d257f.chunk.css",
+    "main.js": "/hanriver-temp-publish/static/js/main.90332b93.chunk.js",
+    "main.js.map": "/hanriver-temp-publish/static/js/main.90332b93.chunk.js.map",
+    "runtime-main.js": "/hanriver-temp-publish/static/js/runtime-main.fcc503a9.js",
+    "runtime-main.js.map": "/hanriver-temp-publish/static/js/runtime-main.fcc503a9.js.map",
+    "static/js/2.3be141ac.chunk.js": "/hanriver-temp-publish/static/js/2.3be141ac.chunk.js",
+    "static/js/2.3be141ac.chunk.js.map": "/hanriver-temp-publish/static/js/2.3be141ac.chunk.js.map",
+    "static/js/3.bde6ddc4.chunk.js": "/hanriver-temp-publish/static/js/3.bde6ddc4.chunk.js",
+    "static/js/3.bde6ddc4.chunk.js.map": "/hanriver-temp-publish/static/js/3.bde6ddc4.chunk.js.map",
+    "index.html": "/hanriver-temp-publish/index.html",
+    "static/css/main.043d257f.chunk.css.map": "/hanriver-temp-publish/static/css/main.043d257f.chunk.css.map",
+    "static/js/2.3be141ac.chunk.js.LICENSE.txt": "/hanriver-temp-publish/static/js/2.3be141ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc503a9.js",
+    "static/js/2.3be141ac.chunk.js",
+    "static/css/main.043d257f.chunk.css",
+    "static/js/main.90332b93.chunk.js"
+  ]
+}
